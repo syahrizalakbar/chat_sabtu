@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "409079357750",
+    "firebase_url": "https://first-project-d139c.firebaseio.com",
+    "project_id": "first-project-d139c",
+    "storage_bucket": "first-project-d139c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409079357750:android:9735562f3c628f0f039397",
+        "android_client_info": {
+          "package_name": "com.rdev.firebasekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409079357750-qd8sa2i8o0fflh9e77r3b2nios3clmvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rdev.firebasekotlin",
+            "certificate_hash": "d4c61b94c49f51ca60233cc549f94f6cbb6672e1"
+          }
+        },
+        {
+          "client_id": "409079357750-nlaue1v0c6hgii10jsd90buapoqe8v36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACaDKjgMJZ8Fbxvv84IzYpPb33sJBVa4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409079357750-nlaue1v0c6hgii10jsd90buapoqe8v36.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "409079357750-oh9csg8dbribbb43gt3ct6s1pp9dom1o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.idouda.Location-Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409079357750:android:b6dafae41b3b936f039397",
+        "android_client_info": {
+          "package_name": "my.riderunner.chat_sabtu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409079357750-nlaue1v0c6hgii10jsd90buapoqe8v36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACaDKjgMJZ8Fbxvv84IzYpPb33sJBVa4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409079357750-nlaue1v0c6hgii10jsd90buapoqe8v36.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "409079357750-oh9csg8dbribbb43gt3ct6s1pp9dom1o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.idouda.Location-Service"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409079357750:android:177ff4ae053f5640039397",
+        "android_client_info": {
+          "package_name": "my.riderunner.flutter_firebase_dan_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409079357750-nlaue1v0c6hgii10jsd90buapoqe8v36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACaDKjgMJZ8Fbxvv84IzYpPb33sJBVa4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409079357750-nlaue1v0c6hgii10jsd90buapoqe8v36.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "409079357750-oh9csg8dbribbb43gt3ct6s1pp9dom1o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.idouda.Location-Service"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
